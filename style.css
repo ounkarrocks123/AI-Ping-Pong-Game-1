@@ -1,0 +1,20 @@
+body
+{
+    background-image: url("background1.jpg")
+}
+
+.heading{
+    width: 100%;
+}
+
+.heading h2{
+    display:inline;
+}
+
+.heading button{
+    float:right;
+}
+
+#Instructions{
+    border:solid white;
+}
